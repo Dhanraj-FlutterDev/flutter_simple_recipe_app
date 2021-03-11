@@ -12,6 +12,4 @@ class Recipe {
      this.steps,
      this.duration,
   });
-
-
 }
