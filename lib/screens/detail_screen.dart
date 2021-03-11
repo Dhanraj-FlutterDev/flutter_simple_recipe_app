@@ -93,4 +93,3 @@ class DetailScreen extends StatelessWidget {
 
 
 
-
