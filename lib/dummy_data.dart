@@ -1,6 +1,6 @@
 import 'package:flutter_simple_recipe_app/modal/recipe.dart';
 
-const recipes = [
+List<Recipe> recipes = [
   Recipe(
     title: 'Spaghetti with Tomato Sauce',
     imageUrl:
